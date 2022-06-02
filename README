@@ -1,0 +1,3 @@
+unzip data/wordlist.txt.gz
+place wordlist.txt in same directory as sb.bash
+./sb.bash required_letter other_letters

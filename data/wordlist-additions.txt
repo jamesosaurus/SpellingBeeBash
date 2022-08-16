@@ -28,6 +28,12 @@ chuppah
 clade
 codon
 commodify
+comp
+comped
+coopt
+coopted
+decoct
+decocted
 deke
 deked
 demit
@@ -53,6 +59,7 @@ illy
 incipience
 indica
 indicia
+javelina
 journo
 kepi
 koan
@@ -70,6 +77,7 @@ moonwalk
 nada
 naggy
 nannying
+octopod
 ogee
 patly
 peke
@@ -93,6 +101,7 @@ theming
 tilapia
 ulnar
 untruly
+villanelle
 wedgie
 yurt
 zanily

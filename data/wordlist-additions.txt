@@ -8,6 +8,7 @@ ancho
 annularly
 anoxia
 anyhoo
+appellee
 arborio
 aril
 arugula
@@ -34,12 +35,14 @@ borzoi
 bowwow
 brava
 brining
+callaloo
 camo
 candela
 canid
 cannellini
 capellini
 captcha
+catmint
 cellblock
 celled
 challah
@@ -110,6 +113,7 @@ folic
 fontina
 frag
 fragging
+fratty
 froufrou
 galangal
 gelee
@@ -176,6 +180,8 @@ loofa
 luging
 macadamia
 mako
+malic
+manta
 melty
 memed
 meming
@@ -213,7 +219,9 @@ oolong
 outgone
 outthought
 ovine
+palapa
 pampa
+panini
 patly
 peen
 peke
@@ -227,6 +235,7 @@ playlet
 pompano
 poolroom
 puce
+puli
 punny
 pyro
 ribbit

@@ -1,10 +1,13 @@
 abbacy
 acidy
 adoptee
+adwoman
 agelong
+aglet
 aioli
 airboat
 alcopop
+allocable
 aloofly
 ancho
 annularly
@@ -25,6 +28,7 @@ backcomb
 backroom
 baht
 ballboy
+ballcock
 banally
 banc
 bazoo
@@ -34,6 +38,7 @@ bindi
 biocide
 blabby
 blobby
+blockable
 blotto
 bocce
 bocci
@@ -53,6 +58,7 @@ capellini
 capo
 captcha
 carload
+carny
 carpark
 catmint
 cava
@@ -72,6 +78,7 @@ collard
 commodify
 comp
 comped
+cookable
 coopt
 coopted
 cornily
@@ -142,12 +149,16 @@ fragging
 fratty
 froufrou
 galangal
+galette
+gamelan
 gelee
 ghee
 gilled
 girly
+glam
 glazy
 glom
+gloop
 glug
 glugging
 gnocchi
@@ -223,6 +234,7 @@ loofa
 loupe
 luging
 macadamia
+mage
 mako
 malic
 manta
@@ -244,6 +256,7 @@ nada
 naggy
 naif
 namecheck
+nametag
 nannying
 natant
 netizen
@@ -252,6 +265,7 @@ nigiri
 nitro
 nonagon
 nonagonal
+nonapology
 nonet
 nonillion
 nori
@@ -292,6 +306,7 @@ plat
 playlet
 plebe
 pompano
+pong
 poolroom
 pothead
 pranking

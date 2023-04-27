@@ -1,3 +1,4 @@
+aargh
 abbacy
 abetment
 aboil
@@ -13,20 +14,25 @@ airboat
 alcopop
 allocable
 aloofly
+ambulette
 ancho
 annotator
 annularly
 anoxia
 anticipant
+antioxidant
 anyhoo
+apemen
 apparat
 appealable
 appellee
 arborio
+arco
 arhat
 aril
 arnica
 arugula
+ataxia
 athwart
 atilt
 atonally
@@ -36,14 +42,17 @@ aviated
 babka
 backcomb
 backroom
+badging
 baht
 bailee
 ballboy
 ballcock
 banally
 banc
+bateau
 battement
 bazoo
+beaut
 bento
 bezel
 bialy
@@ -53,6 +62,7 @@ biocide
 biradial
 biryani
 blabby
+blading
 blobby
 blockable
 blotto
@@ -149,6 +159,7 @@ demitted
 devein
 deveined
 didact
+diddly
 dimity
 dink
 dinked
@@ -165,6 +176,7 @@ doxxed
 draconic
 drawly
 drib
+drooly
 drumroll
 duetted
 dumdum
@@ -175,6 +187,7 @@ ecocide
 ecotone
 ecotype
 eggcup
+eggy
 electee
 emotivity
 encaged
@@ -194,6 +207,7 @@ farro
 fella
 fellate
 fellated
+femme
 fifed
 fifing
 filially
@@ -231,6 +245,7 @@ goby
 golem
 gonzo
 googol
+goony
 gorp
 grabby
 gramma
@@ -255,6 +270,7 @@ helpable
 heptad
 hiccupped
 hilling
+hiragana
 hitmen
 hiya
 honeypot
@@ -284,6 +300,7 @@ jojoba
 journo
 kappa
 kart
+kempt
 kente
 kepi
 keto
@@ -306,9 +323,12 @@ laved
 leanly
 lech
 lenience
+lenity
+libidinal
 ligate
 lightbulb
 linguini
+linty
 lipping
 litho
 loach
@@ -327,10 +347,12 @@ luxe
 macadamia
 mage
 mako
+malamute
 malic
 manta
 marinara
 mathematic
+meetup
 melodeon
 melty
 memed
@@ -360,6 +382,7 @@ nametag
 nannying
 nanobot
 natant
+neap
 netizen
 netty
 nigiri
@@ -383,6 +406,7 @@ oaty
 octad
 octopod
 odea
+oenology
 offline
 ogee
 onlay
@@ -406,9 +430,11 @@ peen
 peke
 pellicle
 penally
+penman
 penmen
 pfft
 phablet
+phenom
 phono
 photog
 photomap
@@ -448,6 +474,7 @@ railcar
 raita
 rando
 ratatat
+rattail
 rawly
 raying
 ribbit
@@ -493,6 +520,7 @@ tidally
 tiki
 tilapia
 tilth
+tinily
 tippet
 tippy
 titivate
@@ -511,6 +539,7 @@ trattoria
 tricorn
 tricot
 trippy
+tubal
 tubule
 tutee
 tutted
@@ -536,8 +565,11 @@ unilingual
 unkink
 unkinking
 unlet
+unmute
 unpeg
+unpegging
 unpen
+unpenning
 unrig
 unrigging
 untag
@@ -562,6 +594,7 @@ wienie
 wildwood
 wizening
 woohoo
+wordily
 yarrow
 yenned
 yenta

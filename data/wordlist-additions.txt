@@ -79,6 +79,7 @@ belate
 bento
 bezel
 bialy
+bibelot
 bibimbap
 bicyclic
 biennia
@@ -130,6 +131,7 @@ campo
 candela
 canid
 cannellini
+cannoli
 canola
 canopic
 capellini
@@ -172,9 +174,11 @@ coldcocked
 collab
 collard
 collet
+colonially
 commodify
 comp
 comped
+conically
 cookable
 cooktop
 cooldown
@@ -243,8 +247,10 @@ dooryard
 dotard
 doula
 doxed
+doxing
 doxx
 doxxed
+doxxing
 draconic
 drawly
 drib
@@ -266,6 +272,7 @@ eggy
 ejecta
 ejectable
 electee
+embanked
 emotivity
 empath
 enby
@@ -285,10 +292,12 @@ falafel
 fallback
 fanfic
 farro
+felid
 fella
 fellate
 fellated
 femme
+fettuccine
 fifed
 fifing
 filename
@@ -314,6 +323,8 @@ galette
 galoot
 gamelan
 gator
+gawp
+gawping
 geeked
 geeking
 gelati
@@ -322,11 +333,13 @@ gelee
 geoid
 geotag
 ghee
+gigue
 gilled
 gilling
 girly
 glam
 glazy
+glitching
 glom
 gloop
 glug
@@ -388,8 +401,10 @@ huzzah
 iambi
 icefall
 icemen
+iconically
 ideate
 ideated
+ilium
 illiquidity
 illy
 inactivate
@@ -398,6 +413,7 @@ indica
 indicia
 indie
 infirming
+ingenue
 inurn
 inurning
 invitee
@@ -534,6 +550,7 @@ nonapology
 nonart
 nonbelief
 nonbinding
+nonclinical
 noncompete
 nonet
 nonillion
@@ -563,7 +580,9 @@ oenology
 offhanded
 offline
 ogee
+oilcan
 oleic
+oniony
 onlay
 oocyte
 oolong
@@ -593,6 +612,7 @@ peen
 peke
 pelf
 pellicle
+peloton
 penally
 pend
 penman
@@ -698,6 +718,7 @@ techie
 teff
 telegenic
 teleplay
+tentpole
 theming
 tibial
 ticktock
@@ -735,6 +756,7 @@ tubule
 tuffet
 tutee
 tutted
+tutting
 tuxedoed
 udon
 ulnar
@@ -744,6 +766,7 @@ unbuilt
 uncaging
 unceded
 uncloak
+unclutch
 uncock
 uncool
 uncuff
@@ -774,8 +797,10 @@ untag
 unthought
 untruly
 untune
+untuning
 updo
 upheave
+uptime
 vagal
 vanillin
 vaxed
@@ -787,9 +812,11 @@ vincible
 virality
 virally
 vlog
+voila
 wahine
 wahoo
 wallaroo
+warrantor
 wedgie
 weenie
 weepie
@@ -808,6 +835,7 @@ yarrow
 yecch
 yech
 yenned
+yenning
 yenta
 yente
 yond

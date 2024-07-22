@@ -11,6 +11,7 @@ agelong
 agita
 aglet
 aioli
+airbag
 airball
 airboat
 alcopop
@@ -37,12 +38,14 @@ arco
 arhat
 aril
 arnica
+arthralgia
 arugula
 ataxia
 athwart
 atilt
 atonally
 attaboy
+attagirl
 attainability
 attractant
 aunty
@@ -88,6 +91,7 @@ bighead
 bigheaded
 bindi
 biocide
+biome
 biotech
 biotin
 biradial
@@ -110,6 +114,7 @@ bookrack
 boombox
 bootjack
 borzoi
+bottleful
 bourg
 bowwow
 braggy
@@ -153,9 +158,11 @@ challah
 chard
 chaw
 chemo
+chimichanga
 chunking
 chuppah
 chyme
+cicely
 cichlid
 cioppino
 citified
@@ -178,6 +185,7 @@ colonially
 commodify
 comp
 comped
+confit
 conically
 cookable
 cooktop
@@ -229,6 +237,7 @@ demimonde
 demit
 demitted
 dengue
+dependently
 devein
 deveined
 didact
@@ -308,7 +317,9 @@ flanging
 flauta
 flipflopping
 focaccia
+foggily
 fogie
+folate
 folic
 fontina
 foodie
@@ -348,6 +359,7 @@ gnocchi
 goby
 golem
 gonzo
+goofily
 googol
 goony
 gorp
@@ -367,6 +379,7 @@ haboob
 haka
 halva
 halvah
+hamachi
 hamartia
 hamate
 hammy
@@ -376,6 +389,7 @@ hardhat
 hateable
 haute
 hayfork
+headhunt
 healable
 heatable
 hegemon
@@ -390,11 +404,13 @@ hiragana
 hitmen
 hiya
 homogeny
+honeybun
 honeypot
 hoppy
 hora
 horal
 hortatory
+hotdogging
 hottie
 hourlong
 huzzah
@@ -425,6 +441,7 @@ jojoba
 journo
 kappa
 kart
+keepable
 kempt
 kente
 kepi
@@ -469,6 +486,7 @@ logogram
 longan
 longbow
 loofa
+lookbook
 loupe
 lovably
 lovage
@@ -525,6 +543,7 @@ mothy
 moue
 moxie
 mudroom
+mung
 nacelle
 nada
 naggy
@@ -539,6 +558,7 @@ natality
 natant
 neap
 neolith
+netiquette
 netizen
 netty
 nightlight
@@ -601,6 +621,7 @@ palapa
 paleo
 pampa
 pancetta
+pandit
 panini
 parador
 paradrop
@@ -632,6 +653,7 @@ piffling
 pinata
 pinewood
 pinniped
+pinny
 pinot
 pintail
 pipet
@@ -640,6 +662,7 @@ plat
 playlet
 plebe
 plena
+pliantly
 plie
 plink
 plinking
@@ -746,12 +769,15 @@ toric
 torii
 torridity
 tortoni
+townhome
 trackpad
 trattoria
 tricorn
 tricot
 trippy
 tubal
+tubeful
+tubful
 tubule
 tuffet
 tutee
@@ -786,6 +812,8 @@ unlet
 unlevel
 unliving
 unmute
+unmuzzling
+unopen
 unpeg
 unpegging
 unpen
@@ -805,8 +833,10 @@ vagal
 vanillin
 vaxed
 vaxxed
+vegged
 vegging
 venially
+vibing
 villanelle
 vincible
 virality

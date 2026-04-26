@@ -1,7 +1,5 @@
 function normalize() {
-
   echo $1 | fold -w1 | sort | fmt | sed -e s/" "//g
-
 }
 
  

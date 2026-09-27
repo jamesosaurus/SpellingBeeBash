@@ -1,6 +1,12 @@
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SOURCE=${SOURCE:-${SCRIPT_DIR}/list.txt}
-echo $SOURCE
+#echo $SOURCE
+
+if [ $# == 2 ]; then
+    REQ=$2
+else
+    REQ="."
+fi
 
 SED_COMMANDS=""
 WLD_COMMANDS=""
@@ -17,14 +23,23 @@ done
 
 SED_COMMANDS=${SED_COMMANDS}${WLD_COMMANDS}"| grep __"
 
-echo $SED_COMMANDS
-
-
-#(for word in $(echo paste \<\(cat ${SOURCE} \| sed -e s/\^// -e s/\$//\) \<\(cat ${SOURCE} \| tr [a-z] [A-Z]\) $SED_COMMANDS| bash |sed -e s/__"      "// | tr [A-Z] [a-z]); do
-#    echo $(echo -n $word| wc -c)${word}
-#done)| sort -n
-
-(while read -r line; do
+grep -e $REQ $SOURCE | (while read -r line; do
     echo _${#line}_${line^^}_${line}_
-done < $SOURCE) | bash -c "cat $SED_COMMANDS"| sort | sort -n
+done ) | bash -c "cat $SED_COMMANDS | sort | sort -n"
 
+
+function c () 
+{ 
+    SCRIPT=~/projects/SpellingBeeBash/src/cross.bash;
+    case $# in 
+        1)
+            bash ${SCRIPT} $1
+        ;;
+        2)
+            bash ${SCRIPT} $1$2 $2
+        ;;
+        3)
+            bash ${SCRIPT} $1$2 $2 | grep $3
+        ;;
+    esac
+}
